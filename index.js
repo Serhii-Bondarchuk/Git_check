@@ -4,3 +4,6 @@ if (z) {
   console.log(985)
   
 }
+function myFunc(){
+     return "Happy" 
+}

@@ -7,3 +7,6 @@ if (z) {
 function myFunc(){
      return "Happy" 
 }
+function myFunc222(){
+     return "Happy" 
+}
